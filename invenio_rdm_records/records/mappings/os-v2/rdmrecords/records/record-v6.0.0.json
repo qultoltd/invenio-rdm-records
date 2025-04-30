@@ -1447,8 +1447,7 @@
       "metadata.publication_date",
       "metadata.publisher",
       "metadata.subjects.subject",
-      "metadata.version",
-      "custom_fields*"
+      "metadata.version"
     ]
   }
 }
