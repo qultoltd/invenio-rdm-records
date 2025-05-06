@@ -33,17 +33,17 @@ export class CommunitySelectionSearch extends Component {
     const configs = {
       allCommunities: {
         ...allCommunities,
-        toggleText: allCommunities.toggleText || i18next("Search in all communities")
+        toggleText: allCommunities.toggleText || i18next("Search in all communities"),
       },
       myCommunities: {
         ...myCommunities,
-        toggleText: myCommunities.toggleText || i18next("Search in my communities")
-      }
-    }
+        toggleText: myCommunities.toggleText || i18next("Search in my communities"),
+      },
+    };
 
     this.state = {
       selectedConfig: configs.allCommunities,
-      ...configs
+      ...configs,
     };
   }
 
@@ -55,13 +55,10 @@ export class CommunitySelectionSearch extends Component {
         initialQueryState: selectedInitialQueryState,
         toggleText,
       },
-      allCommunities, 
-      myCommunities
+      allCommunities,
+      myCommunities,
     } = this.state;
-    const {
-      record,
-      isInitialSubmission,
-    } = this.props;
+    const { record, isInitialSubmission } = this.props;
     const searchApi = new InvenioSearchApi(selectedSearchApi);
     const overriddenComponents = {
       [`${selectedAppId}.ResultsList.item`]: parametrize(CommunityListItem, {
@@ -176,13 +173,13 @@ CommunitySelectionSearch.propTypes = {
       appId: PropTypes.string.isRequired,
       initialQueryState: PropTypes.object.isRequired,
       searchApi: PropTypes.object.isRequired,
-      toggleText: PropTypes.string
+      toggleText: PropTypes.string,
     }),
     myCommunities: PropTypes.shape({
       appId: PropTypes.string.isRequired,
       initialQueryState: PropTypes.object.isRequired,
       searchApi: PropTypes.object.isRequired,
-      toggleText: PropTypes.string
+      toggleText: PropTypes.string,
     }),
   }),
   record: PropTypes.object.isRequired,
