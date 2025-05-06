@@ -33,11 +33,11 @@ export class CommunitySelectionSearch extends Component {
     const configs = {
       allCommunities: {
         ...allCommunities,
-        toggleText: allCommunities.toggleText || i18next("Search in all communities"),
+        toggleText: allCommunities.toggleText || i18next.t("Search in all communities"),
       },
       myCommunities: {
         ...myCommunities,
-        toggleText: myCommunities.toggleText || i18next("Search in my communities"),
+        toggleText: myCommunities.toggleText || i18next.t("Search in my communities"),
       },
     };
 
