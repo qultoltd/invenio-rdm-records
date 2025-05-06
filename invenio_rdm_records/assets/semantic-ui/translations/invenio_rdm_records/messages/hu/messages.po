@@ -913,3 +913,9 @@ msgstr ""
 "Leginkább a szoftverek és adatkészletek feltöltésére vonatkozik. A "
 "szemantikus verziójú karakterláncok előnyben részesítettek, lásd a "
 "<1>semver.org</1> oldalt, de bármilyen verziójú karakterlánc elfogadható."
+
+msgid "Search in all communities"
+msgstr "Keresés a közösségekben"
+
+msgid "Search in my communities"
+msgstr "Keresés a közösségeimben"

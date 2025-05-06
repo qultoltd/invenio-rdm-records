@@ -243,5 +243,7 @@
     "Search for a subject by name": "Téma keresése név szerint",
     "Add titles": "Címek hozzáadása",
     "Additional title": "További cím",
-    "Mostly relevant for software and dataset uploads. A semantic version string is preferred see<1> semver.org</1>, but any version string is accepted.": "Leginkább a szoftverek és adatkészletek feltöltésére vonatkozik. A szemantikus verziójú karakterláncok előnyben részesítettek, lásd a <1>semver.org</1> oldalt, de bármilyen verziójú karakterlánc elfogadható."
+    "Mostly relevant for software and dataset uploads. A semantic version string is preferred see<1> semver.org</1>, but any version string is accepted.": "Leginkább a szoftverek és adatkészletek feltöltésére vonatkozik. A szemantikus verziójú karakterláncok előnyben részesítettek, lásd a <1>semver.org</1> oldalt, de bármilyen verziójú karakterlánc elfogadható.",
+    "Search in all communities": "Keresés a közösségekben",
+    "Search in my communities": "Keresés a közösségeimben"
 }
