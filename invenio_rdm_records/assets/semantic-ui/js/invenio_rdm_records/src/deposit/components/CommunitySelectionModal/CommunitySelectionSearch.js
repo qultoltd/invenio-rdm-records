@@ -176,11 +176,13 @@ CommunitySelectionSearch.propTypes = {
       appId: PropTypes.string.isRequired,
       initialQueryState: PropTypes.object.isRequired,
       searchApi: PropTypes.object.isRequired,
+      toggleText: PropTypes.string
     }),
     myCommunities: PropTypes.shape({
       appId: PropTypes.string.isRequired,
       initialQueryState: PropTypes.object.isRequired,
       searchApi: PropTypes.object.isRequired,
+      toggleText: PropTypes.string
     }),
   }),
   record: PropTypes.object.isRequired,
