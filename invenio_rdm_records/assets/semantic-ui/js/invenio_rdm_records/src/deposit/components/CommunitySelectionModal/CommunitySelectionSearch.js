@@ -25,12 +25,25 @@ import PropTypes from "prop-types";
 export class CommunitySelectionSearch extends Component {
   constructor(props) {
     super(props);
+
     const {
-      apiConfigs: { allCommunities },
+      apiConfigs: { allCommunities, myCommunities },
     } = this.props;
 
+    const configs = {
+      allCommunities: {
+        ...allCommunities,
+        toggleText: allCommunities.toggleText || i18next("Search in all communities")
+      },
+      myCommunities: {
+        ...myCommunities,
+        toggleText: myCommunities.toggleText || i18next("Search in my communities")
+      }
+    }
+
     this.state = {
-      selectedConfig: allCommunities,
+      selectedConfig: configs.allCommunities,
+      ...configs
     };
   }
 
@@ -42,9 +55,10 @@ export class CommunitySelectionSearch extends Component {
         initialQueryState: selectedInitialQueryState,
         toggleText,
       },
+      allCommunities, 
+      myCommunities
     } = this.state;
     const {
-      apiConfigs: { allCommunities, myCommunities },
       record,
       isInitialSubmission,
     } = this.props;
@@ -86,6 +100,7 @@ export class CommunitySelectionSearch extends Component {
                     active={selectedAppId === allCommunities.appId}
                     onClick={() =>
                       this.setState({
+                        ...this.state,
                         selectedConfig: allCommunities,
                       })
                     }
@@ -102,6 +117,7 @@ export class CommunitySelectionSearch extends Component {
                     active={selectedAppId === myCommunities.appId}
                     onClick={() =>
                       this.setState({
+                        ...this.state,
                         selectedConfig: myCommunities,
                       })
                     }
@@ -183,7 +199,6 @@ CommunitySelectionSearch.defaultProps = {
         },
       },
       appId: "ReactInvenioDeposit.CommunitySelectionSearch.AllCommunities",
-      toggleText: "Search in all communities",
     },
     myCommunities: {
       initialQueryState: { size: 5, page: 1, sortBy: "bestmatch" },
@@ -194,7 +209,6 @@ CommunitySelectionSearch.defaultProps = {
         },
       },
       appId: "ReactInvenioDeposit.CommunitySelectionSearch.MyCommunities",
-      toggleText: "Search in my communities",
     },
   },
 };
