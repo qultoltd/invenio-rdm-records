@@ -6,6 +6,7 @@
     sv: Accepterad
     de: Angenommen
     cs: Přijato
+    hu: Elfogadott
 - id: available
   props:
     datacite: Available
@@ -14,6 +15,7 @@
     sv: Tillgänglig
     de: Verfügbar
     cs: Dostupné
+    hu: Elérhető
 - id: collected
   props:
     datacite: Collected
@@ -22,6 +24,7 @@
     sv: Samlade
     de: Gesammelt
     cs: Sebrané
+    hu: Gyűjtött
 - id: copyrighted
   props:
     datacite: Copyrighted
@@ -30,6 +33,7 @@
     sv: Upphovsrättsligt skyddad
     de: Mit Copyright versehen
     cs: Copyright udělen
+    hu: Szerzői jogi védelem alatt álló
 - id: created
   props:
     datacite: Created
@@ -38,6 +42,7 @@
     sv: Skapad
     de: Erstellt
     cs: Vytvořeno
+    hu: Létrehozva
 - id: issued
   props:
     datacite: Issued
@@ -46,6 +51,7 @@
     sv: Utfärdad
     de: Veröffentlicht
     cs: Vydáno
+    hu: Kibocsátva
 - id: other
   props:
     datacite: Other
@@ -54,6 +60,7 @@
     sv: Övrig
     de: Sonstiges
     cs: Jiné
+    hu: Egyéb
 - id: submitted
   props:
     datacite: Submitted
@@ -62,6 +69,7 @@
     sv: Inskickad
     de: Eingereicht
     cs: Odesláno
+    hu: Benyújtva
 - id: updated
   props:
     datacite: Updated
@@ -70,6 +78,7 @@
     sv: Uppdaterad
     de: Aktualisiert
     cs: Aktualizováno
+    hu: Frissítve
 - id: valid
   props:
     datacite: Valid
@@ -78,6 +87,7 @@
     sv: Giltig
     de: Gültig
     cs: Platnost
+    hu: Érvényes
 - id: withdrawn
   props:
     datacite: Withdrawn
@@ -86,3 +96,4 @@
     sv: Tillbakadragen
     de: Zurückgezogen
     cs: Stáhnuto
+    hu: Visszavont
