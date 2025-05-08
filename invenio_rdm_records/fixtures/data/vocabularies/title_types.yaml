@@ -3,6 +3,7 @@
     datacite: AlternativeTitle
   title:
     en: Alternative title
+    hu: Alternatív cím
     sv: Alternativ titel
     de: Alternativer Titel
     cs: Alternativní název
@@ -11,6 +12,7 @@
     datacite: Subtitle
   title:
     en: Subtitle
+    hu: Alcím
     sv: Undertitel
     de: Untertitel
     cs: Podtitul
@@ -19,6 +21,7 @@
     datacite: TranslatedTitle
   title:
     en: Translated title
+    hu: Lefordított cím
     sv: Översatt titel
     de: Übersetzter Titel
     cs: Přeložený název
@@ -27,6 +30,7 @@
     datacite: Other
   title:
     en: Other
+    hu: Egyéb
     sv: Övrig titel
     de: Sonstiger Titel
     cs: Jiný název

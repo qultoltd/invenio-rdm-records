@@ -4,6 +4,7 @@
     marc: prc
   title:
     en: Contact person
+    hu: Kapcsolattartó személy
     sv: Kontaktperson
     de: Kontaktperson
     cs: Kontaktní osoba
@@ -13,6 +14,7 @@
     marc: col
   title:
     en: Data collector
+    hu: Adatgyűjtő
     sv: Datainsamlare
     de: DatensammlerIn
     cs: Sběratel dat
@@ -22,6 +24,7 @@
     marc: cur
   title:
     en: Data curator
+    hu: Adatkurátor
     sv: Datakurator
     de: DatenkuratorIn
     cs: Kurátor dat
@@ -31,6 +34,7 @@
     marc: dtm
   title:
     en: Data manager
+    hu: Adatkezelő
     sv: Dataansvarig
     de: DatenmanagerIn
     cs: Správce dat
@@ -40,6 +44,7 @@
     marc: dst
   title:
     en: Distributor
+    hu: Terjesztő
     sv: Distributör
     de: VerteilerIn
     cs: Distributor
@@ -49,6 +54,7 @@
     marc: edt
   title:
     en: Editor
+    hu: Szerkesztő
     sv: Redaktör
     de: EditorIn
     cs: Editor
@@ -58,6 +64,7 @@
     marc: his
   title:
     en: Hosting institution
+    hu: Tárhelyszolgáltató intézmény
     sv: Värdinstitution
     de: Bereitstellende Institution
     cs: Hostující instituce
@@ -67,6 +74,7 @@
     marc: pro
   title:
     en: Producer
+    hu: Producer
     sv: Producent
     de: ProduzentIn
     cs: Producent
@@ -76,6 +84,7 @@
     marc: pdr
   title:
     en: Project leader
+    hu: Projektvezető
     sv: Projektledare
     de: ProjektleiterIn
     cs: Vedoucí projektu
@@ -85,6 +94,7 @@
     marc: rth
   title:
     en: Project manager
+    hu: Projektmenedzser
     sv: Projektansvarig
     de: ProjektmanagerIn
     cs: Manažer projektu
@@ -94,6 +104,7 @@
     marc: rtm
   title:
     en: Project member
+    hu: Projektcsapattag
     sv: Projektmedlem
     de: Projektmitglied
     cs: Člen projektu
@@ -103,6 +114,7 @@
     marc: cor
   title:
     en: Registration agency
+    hu: Regisztrációs ügynökség
     sv: Registreringsorgan
     de: Registrierungsstelle
     cs: Registrační agentura
@@ -112,6 +124,7 @@
     marc: cor
   title:
     en: Registration authority
+    hu: Regisztrációs hatóság
     sv: Registreringsmyndighet
     de: Registrierungsbehörde
     cs: Registrační autorita
@@ -121,6 +134,7 @@
     marc: oth
   title:
     en: Related person
+    hu: Kapcsolódó személy
     sv: Relaterad person
     de: Verwandte Person
     cs: Související osoba
@@ -130,6 +144,7 @@
     marc: res
   title:
     en: Researcher
+    hu: Kutató
     sv: Forskare
     de: WissenschaftlerIn
     cs: Výzkumník
@@ -139,6 +154,7 @@
     marc: rtm
   title:
     en: Research group
+    hu: Kutatócsoport
     sv: Forskningsgrupp
     de: Forschungsgruppe
     cs: Výzkumná skupina
@@ -148,6 +164,7 @@
     marc: cph
   title:
     en: Rights holder
+    hu: Jogtulajdonos
     sv: Rättighetsinnehavare
     de: RechteinhaberIn
     cs: Držitel práv
@@ -157,6 +174,7 @@
     marc: spn
   title:
     en: Sponsor
+    hu: Szponzor
     sv: Sponsor
     de: Sponsor
     cs: Sponzor
@@ -166,6 +184,7 @@
     marc: dgs
   title:
     en: Supervisor
+    hu: Felügyelő
     sv: Handledare
     de: SupervisorIn
     cs: Supervizor
@@ -175,6 +194,7 @@
     marc: led
   title:
     en: Work package leader
+    hu: Munkacsomag vezető
     sv: Arbetspaketsledare
     de: ArbeitspaketleiterIn
     cs: Vedoucí pracovního balíku
@@ -184,6 +204,7 @@
     marc: oth
   title:
     en: Other
+    hu: Egyéb
     sv: Övriga
     de: Andere
     cs: Jiné

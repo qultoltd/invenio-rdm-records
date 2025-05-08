@@ -6,6 +6,7 @@
   name: Agence Nationale de la Recherche
   title:
     en: National Agency for Research
+    hu: Nemzeti Kutatási Ügynökség
 - id: 05k73zm37
   country: FI
   identifiers:
@@ -14,6 +15,7 @@
   name: Academy of Finland
   title:
     en: Academy of Finland
+    hu: Finn Akadémia
 - id: 05mmh0f86
   country: AU
   identifiers:
@@ -22,6 +24,7 @@
   name: Australian Research Council
   title:
     en: Australian Research Council
+    hu: Ausztrál Kutatási Tanács
 - id: 01gavpb45
   country: CA
   identifiers:
@@ -30,6 +33,7 @@
   name: Canadian Institutes of Health Research
   title:
     en: Canadian Institutes of Health Research
+    hu: Kanadiai Egészségügyi Kutatási Intézetek
 - id: 00k4n6c32
   country: BE
   identifiers:
@@ -38,6 +42,7 @@
   name: European Commission
   title:
     en: European Commission
+    hu: Európai Bizottság
 - id: 02k4b9v70
   country: DK
   identifiers:
@@ -46,6 +51,7 @@
   name: European Environment Agency
   title:
     en: European Environment Agency
+    hu: Európai Környezetvédelmi Ügynökség
 - id: 00snfqn58
   country: PT
   identifiers:
@@ -54,6 +60,7 @@
   name: Fundação para a Ciência e e Tecnologia
   title:
     en: Foundation for science and technology
+    hu: Tudományos és Technológiai Alap
 - id: 013tf3c58
   country: AT
   identifiers:
@@ -62,6 +69,7 @@
   name: FWF Austrian Science Fund
   title:
     en: FWF Austrian Science Fund
+    hu: FWF Osztrák Tudományos Alap
 - id: 01cwqze88
   country: US
   identifiers:
@@ -70,6 +78,7 @@
   name: National Institutes of Health
   title:
     en: National Institutes of Health
+    hu: Nemzeti Egészségügyi Intézetek
 - id: 03n51vw80
   country: HR
   identifiers:
@@ -78,6 +87,7 @@
   name: Croatian Science Foundation
   title:
     en: Croatian Science Foundation
+    hu: Horvát Tudományos Alap
 - id: 01znas443
   country: RS
   identifiers:
@@ -86,6 +96,7 @@
   name: Ministry of Education, Science and Technological Development
   title:
     en: Ministry of Education, Science and Technological Development
+    hu: Oktatási, Tudományos és Technológiai Fejlesztési Minisztérium
 - id: 011kf5r70
   country: AU
   identifiers:
@@ -94,6 +105,7 @@
   name: National Health and Medical Research Council
   title:
     en: National Health and Medical Research Council
+    hu: Nemzeti Egészségügyi és Orvosi Kutatási Tanács
 - id: 01h531d29
   country: CA
   identifiers:
@@ -102,6 +114,7 @@
   name: Natural Sciences and Engineering Research Council
   title:
     en: Natural Sciences and Engineering Research Council
+    hu: Természettudományi és Mérnöki Kutatási Tanács
 - id: 021nxhr62
   country: US
   identifiers:
@@ -110,6 +123,7 @@
   name: National Science Foundation
   title:
     en: National Science Foundation
+    hu: Nemzeti Tudományos Alapítvány
 - id: 04jsz6e67
   country: NL
   identifiers:
@@ -118,6 +132,7 @@
   name: Dutch Research Council
   title:
     en: Dutch Research Council
+    hu: Holland Tudományos Tanács
 - id: 001aqnf71
   country: GB
   identifiers:
@@ -126,6 +141,7 @@
   name: UK Research and Innovation
   title:
     en: UK Research and Innovation
+    hu: Egyesült Királyság Kutatás és Innováció
 - id: 0271asj38
   country: IE
   identifiers:
@@ -134,6 +150,7 @@
   name: Science Foundation Ireland
   title:
     en: Science Foundation Ireland
+    hu: Ír Tudományos Alapítvány
 - id: 00yjd3n13
   country: CH
   identifiers:
@@ -142,6 +159,7 @@
   name: Swiss National Science Foundation
   title:
     en: Swiss National Science Foundation
+    hu: Svájci Nemzeti Tudományos Alapítvány
 - id: 04w9kkr77
   country: TR
   identifiers:
@@ -150,6 +168,7 @@
   name: Scientific and Technological Research Council of Turkey
   title:
     en: Scientific and Technological Research Council of Turkey
+    hu: Török Tudományos és Technológiai Kutatási Tanács
 - id: 006cvnv84
   country: US
   identifiers:
@@ -158,6 +177,7 @@
   name: Social Science Research Council
   title:
     en: Social Science Research Council
+    hu: Társadalomtudományi Kutatási Tanács
 - id: 029chgv08
   country: GB
   identifiers:
@@ -166,3 +186,4 @@
   name: Wellcome Trust
   title:
     en: Wellcome Trust
+    hu: Wellcome Alapítvány

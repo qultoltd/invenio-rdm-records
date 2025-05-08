@@ -1,72 +1,84 @@
 - id: duplicate
   title:
     en: Duplicate of another record
+    hu: Egy másik rekord duplikátuma
     sv: Duplikat av en annan post
     de: Duplikat eines anderen Eintrags
     cs: Duplikát jiného záznamu
 - id: retracted
   title:
     en: Retraction/Withdrawal of a record
+    hu: Rekord visszavonása/eltávolítása
     sv: Återkallande/tillbakadragande av en post
     de: Widerruf eines Eintrags
     cs: Stáhnutí záznamu
 - id: replaced
   title:
     en: Substitution
+    hu: Kicserélés
     sv: Ersättning
     de: Ersetzung
     cs: Nahrazení záznamu
 - id: spam
   title:
     en: Spam
+    hu: Spam
     sv: Spam
     de: Spam
     cs: Spam
 - id: test-record
   title:
     en: Test upload of a record
+    hu: Rekord tesztfeltöltése
     sv: Test-uppladdning av en post
     de: Test-Upload eines Eintrags
     cs: Testovací nahrání záznamu
 - id: copyright
   title:
     en: Copyright infringement
+    hu: Szerzői jogok megsértése
     sv: Upphovsrättsintrång
     de: Urheberrechtsverletzung
     cs: Porušení autorských práv
 - id: personal-data
   title:
     en: Personal data issue
+    hu: Személyes adatokkal kapcsolatos probléma
     sv: Problem med personuppgifter
     de: Problem mit personenbezogenen Daten
     cs: Problém s osobními údaji
 - id: take-down-request
   title:
     en: Take-down request
+    hu: Levételi kérelem
     sv: Nedtagningsbegäran
     de: Deaktivierungsanfrage
     cs: Žádost o stažení
 - id: disputed-authorship
   title:
     en: Disputed authorship
+    hu: Vitatott szerzői jogok
     sv: Omtvistat författarskap
     de: Umstrittene Urheberschaft
     cs: Sporné autorství
 - id: misconduct
   title:
     en: Misconduct
+    hu: Helytelen magatartás
     sv: Misskötsamhet
     de: Fehlverhalten
     cs: Nedovolené jednání
 - id: fraud
   title:
     en: Fraud
+    hu: Csalás
     sv: Bedrägeri
     de: Betrug
     cs: Podvod
 - id: out-of-scope
   title:
     en: Content out of scope for repository
+    hu: Repozitóriumon kívüli tartalom
     sv: Innehåll som ligger utanför repositoriets område
     de: Inhalt außerhalb des Rahmens des Repositoriums
     cs: Obsah mimo rozsah určení repozitáře
