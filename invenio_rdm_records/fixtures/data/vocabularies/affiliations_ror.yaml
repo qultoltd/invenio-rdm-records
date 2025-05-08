@@ -5,7 +5,6 @@
     de: "\_Europ\xE4ische Organisation f\xFCr Kernforschung"
     en: European Organization for Nuclear Research
     fr: "Organisation europ\xE9enne pour la recherche nucl\xE9aire"
-    hu: Európai Nukleáris Kutatási Szervezet
   identifiers:
     - scheme: ror
       identifier: 01ggx4157
@@ -14,7 +13,6 @@
   name: Brookhaven National Laboratory
   title:
     en: Brookhaven National Laboratory
-    hu: Brookhaveni Nemzeti Laboratórium
   identifiers:
     - scheme: ror
       identifier: 02ex6cf31
@@ -22,7 +20,6 @@
   name: Eko-Konnect
   title:
     en: Eko-Konnect
-    hu: Eko-Konnect
   identifiers:
     - scheme: ror
       identifier: 047h63042
@@ -31,7 +28,6 @@
   name: Helmholtz-Zentrum Dresden-Rossendorf
   title:
     en: Helmholtz-Zentrum Dresden-Rossendorf
-    hu: Helmholtz Központ Drezda-Rossendorf
   identifiers:
     - scheme: ror
       identifier: 01zy2cs03
@@ -41,7 +37,6 @@
   title:
     en: National Institute for Nuclear Physics
     it: Istituto Nazionale di Fisica Nucleare
-    hu: Nemzeti Nukleáris Fizikai Intézet
   identifiers:
     - scheme: ror
       identifier: 005ta0471
@@ -52,7 +47,6 @@
     de: Gemeinsame Forschungsstelle
     en: Directorate-General Joint Research Centre
     fr: Centre commun de recherche
-    hu: Közös Kutatóközpont
   identifiers:
     - scheme: ror
       identifier: 04j5wtv36
@@ -61,7 +55,6 @@
   name: Northwestern University
   title:
     en: Northwestern University
-    hu: Northwestern Egyetem
   identifiers:
     - scheme: ror
       identifier: 000e0be47
@@ -69,7 +62,6 @@
   name: Tind Technologies (Norway)
   title:
     en: Tind Technologies (Norway)
-    hu: Tind Technologies (Norvégia)
   identifiers:
     - scheme: ror
       identifier: 04mcehe57
@@ -79,7 +71,6 @@
   title:
     en: Turkish Academic Network and Information Center
     tr: "Ulusal Akademik A\u011F ve Bilgi Merkezi"
-    hu: Török Akadémiai Hálózat és Információs Központ
   identifiers:
     - scheme: ror
       identifier: 017k52s24
@@ -88,7 +79,6 @@
   title:
     de: "Technische Universit\xE4t Graz"
     en: Graz University of Technology
-    hu: Graz Műszaki Egyetem
   identifiers:
     - scheme: ror
       identifier: 00d7xrm67
@@ -98,7 +88,6 @@
   title:
     de: "Technische Universit\xE4t Wien"
     en: TU Wien
-    hu: Bécsi Műszaki Egyetem
   identifiers:
     - scheme: ror
       identifier: 04d836q62
@@ -107,7 +96,6 @@
   name: "Universit\xE4t Hamburg"
   title:
     en: University of Hamburg
-    hu: Hamburgi Egyetem
   identifiers:
     - scheme: ror
       identifier: 00g30e956
@@ -117,7 +105,6 @@
   title:
     de: "Westf\xE4lische Wilhelms-Universit\xE4t M\xFCnster"
     en: "University of M\xFCnster"
-    hu: Münsteri Egyetem
   identifiers:
     - scheme: ror
       identifier: 00pd74e08
@@ -126,7 +113,6 @@
   name: West and Central African Research and Education Network
   title:
     en: West and Central African Research and Education Network
-    hu: Nyugat- és Közép-afrikai Kutatási és Oktatási Hálózat
   identifiers:
     - scheme: ror
       identifier: 006rqpt26
@@ -136,7 +122,6 @@
   title:
     en: California Institute of Technology
     es: "Instituto de Tecnolog\xEDa de California"
-    hu: Kaliforniai Műszaki Intézet
   identifiers:
     - scheme: ror
       identifier: 05dxps055
@@ -146,7 +131,6 @@
   title:
     en: KTH Royal Institute of Technology
     sv: "KTH Kungliga Tekniska högskolan"
-    hu: KTH Királyi Műszaki Egyetem
   identifiers:
     - scheme: ror
       identifier: 026vcq606
@@ -155,7 +139,6 @@
   name: Data Futures GmbH
   title:
     en: Data Futures GmbH
-    hu: Data Futures GmbH
   identifiers:
     - scheme: ror
       identifier: 01653xx13
