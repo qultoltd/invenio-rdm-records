@@ -3,7 +3,6 @@
     datacite: IsCitedBy
   title:
     en: Is cited by
-    hu: Idézve van általa
     sv: Citeras av
     de: Wird zitiert von
     cs: Je citován (čím)
@@ -12,7 +11,6 @@
     datacite: Cites
   title:
     en: Cites
-    hu: Idéz
     sv: Citerar
     de: Zitiert
     cs: Cituje (co)
@@ -21,7 +19,6 @@
     datacite: IsSupplementTo
   title:
     en: Is supplement to
-    hu: Kiegészíti
     sv: Är supplement till
     de: Ergänzt
     cs: Je doplňkem k (čemu)
@@ -30,7 +27,6 @@
     datacite: IsSupplementedBy
   title:
     en: Is supplemented by
-    hu: Kiegészítve van általa
     sv: Supplementerad av
     de: Wird ergänzt durch
     cs: Má doplněk (co)
@@ -39,7 +35,6 @@
     datacite: IsContinuedBy
   title:
     en: Is continued by
-    hu: Folytatva van általa
     sv: Är fortsatt av
     de: Wird fortgesetzt durch
     cs: Je pokračováním (čeho)
@@ -48,7 +43,6 @@
     datacite: Continues
   title:
     en: Continues
-    hu: Folytatja
     sv: Fortsätter
     de: Setzt fort
     cs: Pokračuje (čím)
@@ -57,7 +51,6 @@
     datacite: IsDescribedBy
   title:
     en: Is described by
-    hu: Leírásra került általa
     sv: Beskrivs av
     de: Wird beschrieben von
     cs: Je popsán (čím)
@@ -66,7 +59,6 @@
     datacite: Describes
   title:
     en: Describes
-    hu: Leírja
     sv: Beskriver
     de: Beschreibt
     cs: Popisuje (co)
@@ -75,7 +67,6 @@
     datacite: HasMetadata
   title:
     en: Has metadata
-    hu: Van metaadata
     sv: Har metadata
     de: Hat Metadaten in
     cs: Má metadata
@@ -84,7 +75,6 @@
     datacite: IsMetadataFor
   title:
     en: Is metadata for
-    hu: Metaadata
     sv: Är metadata för
     de: Hat Metadaten für
     cs: Je metadaty pro
@@ -93,7 +83,6 @@
     datacite: HasVersion
   title:
     en: Has version
-    hu: Van verziója
     sv: Har version
     de: Hat versionierte Instanz
     cs: Má verzi
@@ -102,7 +91,6 @@
     datacite: IsVersionOf
   title:
     en: Is version of
-    hu: Verziója
     sv: Är version av
     de: Ist eine Version von
     cs: Je verzí (čeho)
@@ -111,7 +99,6 @@
     datacite: IsNewVersionOf
   title:
     en: Is new version of
-    hu: Új verziója
     sv: Är en ny version av
     de: Ist eine neue Version von
     cs: Je novou verzí (čeho)
@@ -120,7 +107,6 @@
     datacite: IsPreviousVersionOf
   title:
     en: Is previous version of
-    hu: Előző verziója
     sv: Är en tidigare version av
     de: Ist eine vorherige Version von
     cs: Je předchozí verzí (čeho)
@@ -129,7 +115,6 @@
     datacite: IsPartOf
   title:
     en: Is part of
-    hu: Része
     sv: Är del av
     de: Ist Teil von
     cs: Je součástí (čeho)
@@ -138,7 +123,6 @@
     datacite: HasPart
   title:
     en: Has part
-    hu: Részét képezi
     sv: Innehåller följande del
     de: Umfasst folgenden Teil
     cs: Má část/i (co)
@@ -147,7 +131,6 @@
     datacite: IsPublishedIn
   title:
     en: Is published in
-    hu: Megjelent benne
     sv: Är publicerad i
     de: Ist veröffentlicht in
     cs: Je publikován v
@@ -156,7 +139,6 @@
     datacite: IsReferencedBy
   title:
     en: Is referenced by
-    hu: Rá van hivatkozva
     sv: Hänvisas till av
     de: Wird referenziert von
     cs: Je na něj odkazováno z (čeho)
@@ -165,7 +147,6 @@
     datacite: References
   title:
     en: References
-    hu: Hivatkozik
     sv: Hänvisar till
     de: Referenziert
     cs: Odkazuje na (co)
@@ -174,7 +155,6 @@
     datacite: IsDocumentedBy
   title:
     en: Is documented by
-    hu: Dokumentálva van
     sv: Är dokumenterad av
     de: Wird dokumentiert von
     cs: Je zdokumentován (čím)
@@ -183,7 +163,6 @@
     datacite: Documents
   title:
     en: Documents
-    hu: Dokumentál
     sv: Dokumenterar
     de: Dokumentiert
     cs: Dokumentuje (co)
@@ -192,7 +171,6 @@
     datacite: IsCompiledBy
   title:
     en: Is compiled by
-    hu: Össze van állítva általa
     sv: Är sammanställd av
     de: Kompiliert durch
     cs: Je kompilován (čím)
@@ -201,7 +179,6 @@
     datacite: Compiles
   title:
     en: Compiles
-    hu: Összeállít
     sv: Sammanställer
     de: Kompiliert
     cs: Kompiluje (co)
@@ -210,7 +187,6 @@
     datacite: IsVariantFormOf
   title:
     en: Is variant form of
-    hu: Variáns formája
     sv: Är en variant av
     de: Ist eine Variante von
     cs: Je variantou (čeho)
@@ -219,7 +195,6 @@
     datacite: IsOriginalFormOf
   title:
     en: Is original form of
-    hu: Eredeti formája
     sv: Är originalet av
     de: Ist das Orginal von
     cs: Je původní variantou (čeho)
@@ -228,7 +203,6 @@
     datacite: IsIdenticalTo
   title:
     en: Is identical to
-    hu: Azonos vele
     sv: Är identisk med
     de: Ist identisch mit
     cs: Je identický s (čím)
@@ -237,7 +211,6 @@
     datacite: IsReviewedBy
   title:
     en: Is reviewed by
-    hu: Véleményezve van általa
     sv: Är granskad av
     de: Wird begutachtet von
     cs: Je recenzován (čím)
@@ -246,7 +219,6 @@
     datacite: Reviews
   title:
     en: Reviews
-    hu: Véleményezi
     sv: Granskar
     de: Begutachtet
     cs: Recenzuje (co)
@@ -255,7 +227,6 @@
     datacite: IsDerivedFrom
   title:
     en: Is derived from
-    hu: Ered onnan
     sv: Härrör från
     de: Wird abgeleitet von
     cs: Je odvozen od (čeho)
@@ -264,7 +235,6 @@
     datacite: IsSourceOf
   title:
     en: Is source of
-    hu: Forrása
     sv: Är källa till
     de: Ist Quelle von
     cs: Je zdrojem odvozené verze
@@ -273,7 +243,6 @@
     datacite: IsRequiredBy
   title:
     en: Is required by
-    hu: Szükséges hozzá
     sv: Krävs av
     de: Wird gefordert von
     cs: Je požadován (čím)
@@ -282,7 +251,6 @@
     datacite: Requires
   title:
     en: Requires
-    hu: Szükséges
     sv: Kräver
     de: Setzt voraus
     cs: Požaduje (co)
@@ -291,7 +259,6 @@
     datacite: IsObsoletedBy
   title:
     en: Is obsoleted by
-    hu: Elavulttá válik általa
     sv: Ersätts av
     de: Wird ersetzt durch
     cs: je nahrazen (čím)
@@ -300,7 +267,6 @@
     datacite: Obsoletes
   title:
     en: Obsoletes
-    hu: Elavulttá válik
     sv: Ersätter
     de: Ersetzt
     cs: nahrazuje (co)
