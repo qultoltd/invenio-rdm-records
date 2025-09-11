@@ -364,8 +364,12 @@ class MetadataSchema(Schema):
     title = SanitizedUnicode(required=True, validate=validate.Length(min=3))
     additional_titles = fields.List(fields.Nested(TitleSchema))
     publisher = SanitizedUnicode()
-    publication_date = EDTFDateString(required=True)
-    subjects = fields.List(fields.Nested(SubjectRelationSchema))
+    publication_date = EDTFDateString(required=True)    
+    subjects = fields.List(
+        fields.Nested(SubjectRelationSchema),
+        required=True,
+        validate=validate.Length(min=1, error=_("Missing data for required field.")),
+    )
     contributors = fields.List(fields.Nested(ContributorSchema))
     dates = fields.List(fields.Nested(DateSchema))
     languages = fields.List(fields.Nested(VocabularySchema))
