@@ -617,7 +617,18 @@ class DataCite43Schema(BaseSerializerSchema):
             # award
             award = funding.get("award")
             if award:  # having an award is optional
-                funding_ref["awardTitle"] = award.get("title", {}).get("en", missing)
+
+                title_dict = award.get("title")  
+                award_title = None
+
+                # using the "en" variant of the awardTitle or the first value of the award title dictionary
+                if title_dict:
+                    award_title = title_dict.get("en") or next(iter(title_dict.values()), None)
+
+                if award_title:
+                  funding_ref["awardTitle"] = award_title
+                #funding_ref["awardTitle"] = award.get("title", {}).get("en", missing)
+
                 funding_ref["awardNumber"] = award["number"]
 
                 identifiers = award.get("identifiers", [])
