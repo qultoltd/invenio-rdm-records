@@ -12,6 +12,11 @@
 Changes
 =======
 
+Version 10.9.3 (released 2025-11-23)
+
+- schemas: provide default value for quota increase notes
+- datacite: fix funding serialization for optional award fields
+
 Version 10.9.2 (released 2025-05-05)
 
  - tests: fix js tests
