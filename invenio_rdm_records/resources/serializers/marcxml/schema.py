@@ -33,7 +33,7 @@ class MARCXMLSchema(BaseSerializerSchema, CommonFieldsMixin):
     relations = fields.Method("get_relations", data_key="856 2")
     rights = fields.Method("get_rights", data_key="540  ")
     license = fields.Method("get_license", data_key="65017")
-    subjects = fields.Method("get_subjects", data_key="653  ")
+    subjects = fields.Method("get_subjects", data_key="695  ")
     descriptions = fields.Method("get_descriptions", data_key="520  ")
     additional_descriptions = fields.Method(
         "get_additional_descriptions", data_key="500  "
@@ -57,6 +57,7 @@ class MARCXMLSchema(BaseSerializerSchema, CommonFieldsMixin):
     access = fields.Method("get_access", data_key="542  ")
     host_information = fields.Method("get_host_information", data_key="773  ")
     leader = fields.Method("get_leader")
+    cataloging_source = fields.Method("get_cataloging_source", data_key="040  ")
 
     def get_leader(self, obj):
         """Return the leader information."""
@@ -522,3 +523,9 @@ class MARCXMLSchema(BaseSerializerSchema, CommonFieldsMixin):
                 output.append(resource_types)
 
         return output or missing
+
+    def get_cataloging_source(self, _):
+        return {
+            "a": "SZTE Adatrepozitórium",
+            "b": "hun"
+        }
