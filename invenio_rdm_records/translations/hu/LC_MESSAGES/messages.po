@@ -710,7 +710,7 @@ msgstr ""
 #: invenio_rdm_records/resources/serializers/ui/fields.py:35
 #: invenio_rdm_records/services/facets.py:32
 msgid "Open"
-msgstr "Megnyitás"
+msgstr "Nyílt"
 
 #: invenio_rdm_records/resources/serializers/ui/fields.py:36
 #: invenio_rdm_records/services/facets.py:33
